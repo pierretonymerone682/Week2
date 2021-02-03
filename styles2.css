@@ -1,0 +1,95 @@
+
+h1{
+    font-style: italic;
+    color: blueviolet;
+    font-family: "Lucida Console", "Courier New", monospace;
+   font-weight: bolder;
+    text-align: center;
+}
+body{
+background-color: darkkhaki;
+background-image: url(https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHw%3D&w=1000&q=80);
+width: 800px;
+}
+p{
+    font-weight: bolder;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: lightyellow;
+    width: 350px;
+}
+
+
+img{
+    padding: 0px 0px 0px 0px;
+    width: 330px;
+    height: 220px;
+}
+ol li{
+    list-style-type: none;
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+    color: red;
+    font-weight: bolder;
+}
+span{
+    background-color: gray;
+    color: greenyellow;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.Fav-fruits{
+    padding: 5px;
+    background-color: yellow;
+  }
+
+.img-fruits{
+    margin-right: 0px;
+    border: 2px solid blue;
+    border-spacing: 0px;
+}
+.benefits{
+    border: 5px solid blanchedalmond;
+}
+
+
+
+.neg-effect{
+color: brown;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+#fruits-id{
+width: 550px;
+color: darkblue;
+background-color: cornsilk;
+}
+
+
+
+#mysay{
+    width: 350px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    font-size: 80px;
+
+}
+#Disadvantage{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+
+}
+#fruits-id-img{
+    color: blue;
+    font-size: 60px;
+}
+#benefit{
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+
+}
